@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.3.5" timestamp="2016-06-27T16:48:31.612">
+<file name="C:\Users\A\apptbook\src\main\java\edu\pdx\cs410J\akanksha\Project1.java">
+<violation beginline="11" endline="11" begincolumn="11" endcolumn="11" rule="UnusedLocalVariable" ruleset="Unused Code" package="edu.pdx.cs410J.akanksha" class="Project1" method="main" variable="c" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'c'.
+</violation>
+</file>
+</pmd>

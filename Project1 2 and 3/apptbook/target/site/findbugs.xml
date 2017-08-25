@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='3.0.1' threshold='medium' effort='min'><file classname='edu.pdx.cs410J.akanksha.Project1'><BugInstance type='DLS_DEAD_STORE_OF_CLASS_LITERAL' priority='Normal' category='CORRECTNESS' message='Dead store of edu.pdx.cs410J.AbstractAppointmentBook.class in edu.pdx.cs410J.akanksha.Project1.main(String[])' lineNumber='11'/></file><Error></Error><Project><SrcDir>C:\Users\A\apptbook\src\main\java</SrcDir><SrcDir>C:\Users\A\apptbook\src\test\java</SrcDir></Project></BugCollection>
